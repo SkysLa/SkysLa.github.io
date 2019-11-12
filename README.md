@@ -1,2 +1,1 @@
-# skysla.github.io
-Github pages for skysla
+I now exist on the internet like everyone else.
